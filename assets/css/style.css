@@ -1,0 +1,13 @@
+h1{
+    text-align: left;
+    background: purple;
+    color: white;
+}
+
+header {
+    padding: 20px;
+    margin-bottom: 20px;
+    background:white;
+    border-bottom: 1px solid black;
+
+  }
