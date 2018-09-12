@@ -1,13 +1,37 @@
 h1{
     text-align: left;
-    background: purple;
+    background: olive;
     color: white;
+    padding: 20px;
+    width: 20%;
+
 }
 
 header {
     padding: 20px;
-    margin-bottom: 20px;
     background:white;
     border-bottom: 1px solid black;
 
+  }
+
+  h2{
+    text-align: left;
+    background: white;
+    color: olive;
+  }
+
+  body {
+    font-size: 18px;
+    line-height: 32px;
+    color: black;
+  }
+
+  #context {
+      background: bisque;
+      float: left;
+      margin-left: 20px;
+      padding: 50px;
+      vertical-align: center;
+      
+      
   }
