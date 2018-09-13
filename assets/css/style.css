@@ -9,6 +9,8 @@ h1{
 
 #profilepic {
   width: 300px;
+  border-radius: 50%;
+
 }
 
 header {
@@ -27,16 +29,41 @@ header {
 
   body {
     font-size: 18px;
-    line-height: 32px;
-    color: black;
+    line-height: 1;
+    color: white;
+  
   }
 
-  #context {
-      background: bisque;
+  p {
+    font-size:18px;
+    line-height: 1;
+    color: white;
+  }
+
+  .para {
+    position: absolute;
+    top: 5%;
+    right: 0%;
+    width: 58%;
+
+
+  }
+
+  .context {
+      background: url("http://farm6.static.flickr.com/5139/5388567716_b5f2233042.jpg");
       float: left;
-      margin-left: 20px;
-      padding: 50px;
+      margin-left: 13%;
+      margin-right: 20%;
+      margin-top: 10%;
+      margin-bottom: 10%;
+      padding: 70px;
       vertical-align: center;
-      
+      border-style: double;
+      position: relative;
+      width: 60%;
+      border-color: black;
+      border-radius: 50px;
+
+   
       
   }
