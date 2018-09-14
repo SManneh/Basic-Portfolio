@@ -12,6 +12,7 @@ font-size: larger;
 }
 
 .menu {
+  text-decoration: none;
   float: right;
   top:58px;
   right:16px;
