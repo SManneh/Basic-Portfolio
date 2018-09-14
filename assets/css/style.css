@@ -12,7 +12,6 @@ font-size: larger;
 }
 
 .menu {
-  text-decoration: none;
   float: right;
   top:58px;
   right:16px;
@@ -21,6 +20,10 @@ font-size: larger;
 
 }
 
+a {
+  text-decoration: none;
+  color:white;
+}
 
 
 
