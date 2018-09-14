@@ -1,11 +1,27 @@
-h1{
-    text-align: left;
-    background: olive;
-    color: white;
-    padding: 20px;
-    width: 20%;
+
+.header {
+  text-align: left;
+  background: url("https://atgbcentral.com/data/out/122/5023173-mint-green-wallpaper.jpg");
+  color: white;
+  font-family: 'Abril Fatface', cursive;
+  padding: 15px;
+  width: 98%;
+  position: relative;
+  border-radius: 5%;
+font-size: larger;
+}
+
+.menu {
+  float: right;
+  top:58px;
+  right:16px;
+  position: absolute;
+  color:white;
 
 }
+
+
+
 
 #profilepic {
   width: 300px;
@@ -13,12 +29,6 @@ h1{
 
 }
 
-header {
-    padding: 20px;
-    background:white;
-    border-bottom: 1px solid black;
-
-  }
 
   h2{
     text-align: left;
@@ -54,14 +64,14 @@ header {
       float: left;
       margin-left: 13%;
       margin-right: 20%;
-      margin-top: 10%;
+      margin-top: 5%;
       margin-bottom: 10%;
       padding: 70px;
       vertical-align: center;
       border-style: double;
       position: relative;
       width: 60%;
-      border-color: black;
+      border-color: olive;
       border-radius: 50px;
 
    
