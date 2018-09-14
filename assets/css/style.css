@@ -85,10 +85,11 @@ font-size: larger;
     margin-top: 6px;
     margin-bottom: 16px;
     resize: vertical;
+  
 }
 
 input[type=submit] {
-    background-color: #4CAF50;
+    background-color: orange;
     color: white;
     padding: 12px 20px;
     border: none;
@@ -97,11 +98,12 @@ input[type=submit] {
 }
 
 input[type=submit]:hover {
-    background-color: #45a049;
+    background-color: orange;
 }
 
 .container {
     border-radius: 5px;
-    background-color: #f2f2f2;
+    background-color: white;
     padding: 20px;
+    color: black;
 }
